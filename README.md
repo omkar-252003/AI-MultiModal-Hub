@@ -1,5 +1,5 @@
   
-# 🌟 My AI Multimodel Hub! 🤖
+# 🌟 My AI Multimodal Hub! 🤖
 
 Hey there! 👋 This repository houses an awesome AI Model Hub that integrates various Hugging Face models under a single interface using Streamlit. Whether you're into AI Chat, generating images from text 🖼️, or having engaging conversations with AI 🗣️, this hub has something exciting for you!
 
@@ -32,7 +32,7 @@ Hey there! 👋 This repository houses an awesome AI Model Hub that integrates v
 
 ## Demo 🎥
 
-Check out this quick demo of the AI Model Hub in action [Website 🚀](https://gokulnath2003-anti-gpt.hf.space/)
+Check out this quick demo of the AI Modal Hub in action [Website 🚀](https://gokulnath2003-anti-gpt.hf.space/)
 ![image](https://github.com/user-attachments/assets/c654b822-1ac4-4441-84e7-818ba45f5a5a)
 
 
