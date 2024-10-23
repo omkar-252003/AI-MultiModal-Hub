@@ -45,4 +45,4 @@ Pull requests and contributions are welcome! If you have any suggestions, ideas,
 Special thanks to the amazing folks at Hugging Face for their incredible models and to the Streamlit team for making it easy to build interactive web apps with Python!
 
 ---
-Built with ❤️ by [GOKULNATH](https://github.com/Coding-Devil) 👨‍💻
+
